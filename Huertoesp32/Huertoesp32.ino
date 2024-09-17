@@ -20,8 +20,8 @@
 
 LiquidCrystal_I2C lcd(0x3F, 16, 2);
 const bool on_Wifi = true;
-const char *ssid_Router = "MOVISTAR_37F0";
-const char *password_Router = "Fqp4Gi5VF7KLKLAyjLcY";
+const char *ssid_Router = "****";
+const char *password_Router = "*****";
 const char *serverURL = "http://192.168.1.41:8080/auth/sensor";
 const char *serverURLDepositoAgua = "http://192.168.1.41:8080/auth/sensorDepositoAgua";
 const char *macetaURL = "http://192.168.1.41:8080/auth/maceta/huerto/humedad/1";
